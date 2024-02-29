@@ -1,0 +1,32 @@
+<template>
+    <header class="grid-container py-6 md:py-8 xl:py-12 relative">
+        <div class="flex items-center justify-between py-5 px-8 rounded-full bg-[#1C1C1C] text-white z-[1] border border-[#262626] text-lg">
+            <NuxtLink to="/" class="flex items-center gap-1">
+                <img src="/images/header/logo.png" alt="">
+                <span class="font-semibold text-xl">FireBanK</span>
+            </NuxtLink>
+            <nav class="flex items-center gap-6 max-lg:absolute max-lg:flex-col max-lg:w-[calc(100%-40px)] max-sm:w-[calc(100%-30px)] max-lg:left-1/2 max-lg:-translate-x-1/2 max-lg:z-[5] max-lg:py-4 max-lg:rounded-2xl max-lg:bg-[#1C1C1C] max-lg:border max-lg:border-[#262626] max-lg:transition-all max-lg:duration-500" :class="isMenuShow ? 'max-lg:top-full' : 'max-lg:top-0 max-lg:-translate-y-full'">
+                <NuxtLink to="/">Home</NuxtLink>
+                <NuxtLink to="/">Careers</NuxtLink>
+                <NuxtLink to="/">About</NuxtLink>
+                <NuxtLink to="/">Security</NuxtLink>
+                <div class="flex items-center gap-5 lg:hidden">
+                    <NuxtLink to="/">Sign Up</NuxtLink>
+                    <NuxtLink to="/" class="py-3 px-7 rounded-full bg-[#CAFF33] text-black">Login</NuxtLink>
+                </div>
+            </nav>
+            <div class="flex items-center gap-5 max-lg:hidden">
+                <NuxtLink to="/">Sign Up</NuxtLink>
+                <NuxtLink to="/" class="py-3 px-7 rounded-full bg-[#CAFF33] text-black">Login</NuxtLink>
+            </div>
+            <button class="py-3 px-4 rounded-full bg-[#CAFF33] lg:hidden" @click="isMenuShow = !isMenuShow">
+                <img src="/images/header/menu.png" alt="">
+            </button>
+        </div>
+        <img src="/images/header/topBlock.png" alt="" class="col-span-full absolute top-0 left-0">
+    </header>
+</template>
+
+<script setup>
+    const isMenuShow = ref(false)
+</script>
