@@ -1,6 +1,6 @@
 <template>
     <header class="grid-container py-6 md:py-8 xl:py-12 relative">
-        <div class="flex items-center justify-between py-5 px-8 rounded-full bg-[#1C1C1C] text-white z-[1] border border-[#262626] text-lg">
+        <div class="flex items-center justify-between py-5 px-8 rounded-full bg-[#1C1C1C] text-white z-[1] border border-[#262626] text-xs md:text-sm xl:text-lg">
             <NuxtLink to="/" class="flex items-center gap-1">
                 <img src="/images/header/logo.png" alt="">
                 <span class="font-semibold text-xl">FireBanK</span>
