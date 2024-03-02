@@ -138,6 +138,42 @@
             </div>
         </div>
     </div>
+    <div class="flex flex-col gap-10 md:gap-14 xl:gap-20 text-white">
+        <div class="flex flex-col gap-2 md:gap-2.5 xl:gap-3">
+            <p class="text-2xl md:text-4xl xl:text-5xl font-medium leading-[150%]">Our <span class="text-[#CAFF33]">Features</span></p>
+            <p class="text-xs md:text-sm xl:text-lg font-light text-[#B3B3B3] leading-[150%]">Experience a host of powerful features at YourBank, including seamless online banking, secure transactions, and personalized financial insights, all designed to enhance your banking experience</p>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-5 xl:gap-7">
+            <div class="flex flex-col gap-5 xl:gap-7 rounded-xl p-7 md:p-10 xl:p-12 bg-[#1C1C1C] border border-[#262626]">
+                <div class="flex items-center justify-between">
+                    <p class="text-base md:text-lg xl:text-2xl">24/7 Account Access</p>
+                    <img src="/images/features/icon.png" alt="">
+                </div>
+                <p class="text-sm md:text-base xl:text-lg leading-[150%] font-light text-[#B3B3B3]">Enjoy the convenience of accessing your accounts anytime, anywhere through our secure online banking platform. Check balances, transfer funds, and pay bills with ease.</p>
+            </div>
+            <div class="flex flex-col gap-5 xl:gap-7 rounded-xl p-7 md:p-10 xl:p-12 bg-[#1C1C1C] border border-[#262626]">
+                <div class="flex items-center justify-between">
+                    <p class="text-base md:text-lg xl:text-2xl">Mobile Banking App</p>
+                    <img src="/images/features/icon.png" alt="">
+                </div>
+                <p class="text-sm md:text-base xl:text-lg leading-[150%] font-light text-[#B3B3B3]">Stay connected to your finances on the go with our user-friendly mobile banking app. Easily manage your accounts, deposit checks, and make payments from your smartphone or tablet.</p>
+            </div>
+            <div class="flex flex-col gap-5 xl:gap-7 rounded-xl p-7 md:p-10 xl:p-12 bg-[#1C1C1C] border border-[#262626]">
+                <div class="flex items-center justify-between">
+                    <p class="text-base md:text-lg xl:text-2xl">Secure Transactions</p>
+                    <img src="/images/features/icon.png" alt="">
+                </div>
+                <p class="text-sm md:text-base xl:text-lg leading-[150%] font-light text-[#B3B3B3]">Rest assured knowing that your transactions are protected by industry-leading security measures. We employ encryption and multi-factor authentication to safeguard your financial information.</p>
+            </div>
+            <div class="flex flex-col gap-5 xl:gap-7 rounded-xl p-7 md:p-10 xl:p-12 bg-[#1C1C1C] border border-[#262626]">
+                <div class="flex items-center justify-between">
+                    <p class="text-base md:text-lg xl:text-2xl">Bill Pay and Transfers</p>
+                    <img src="/images/features/icon.png" alt="">
+                </div>
+                <p class="text-sm md:text-base xl:text-lg leading-[150%] font-light text-[#B3B3B3]">Save time and avoid late fees with our convenient bill pay service. Set up recurring payments or make one-time transfers between your accounts with just a few clicks.</p>
+            </div>
+        </div>
+    </div>
 </template>
 
 <script setup>
