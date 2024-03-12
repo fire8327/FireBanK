@@ -174,6 +174,13 @@
             </div>
         </div>
     </div>
+    <div class="w-full rounded-xl bg-[#1C1C1C] p-7 md:p-14 xl:p-20 flex items-center max-lg:flex-col max-lg:text-center lg:justify-between gap-6 border border-[#262626] text-white">
+        <div class="flex flex-col gap-2 md:gap-2.5 xl:gap-3.5">
+            <p class="text-xl md:text-3xl xl:text-4xl font-medium leading-[150%]">Start your financial journey with <span class="text-[#CAFF33]">FireBanK today!</span></p>
+            <p class="text-[#B3B3B3] text-sm md:text-base xl:text-lg">Ready to take control of your finances? Join YourBank now, and let us help you achieve your financial goals with our tailored solutions and exceptional customer service</p> 
+        </div>
+        <NuxtLink to="/" class="rounded-full py-3 xl:py-4 px-6 xl:px-7 bg-[#CAFF33] text-black shrink-0">Open Account</NuxtLink>        
+    </div>    
 </template>
 
 <script setup>
