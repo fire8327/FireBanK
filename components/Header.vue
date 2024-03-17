@@ -8,7 +8,7 @@
             <nav class="flex items-center gap-6 max-lg:absolute max-lg:flex-col max-lg:w-[calc(100%-40px)] max-sm:w-[calc(100%-30px)] max-lg:left-1/2 max-lg:-translate-x-1/2 max-lg:z-[5] max-lg:py-4 max-lg:rounded-2xl max-lg:bg-[#1C1C1C] max-lg:border max-lg:border-[#262626] max-lg:transition-all max-lg:duration-500" :class="isMenuShow ? 'max-lg:top-full' : 'max-lg:top-0 max-lg:-translate-y-full'">
                 <NuxtLink to="/">Home</NuxtLink>
                 <NuxtLink to="/">Careers</NuxtLink>
-                <NuxtLink to="/">About</NuxtLink>
+                <NuxtLink to="/about">About</NuxtLink>
                 <NuxtLink to="/">Security</NuxtLink>
                 <div class="flex items-center gap-5 lg:hidden">
                     <NuxtLink to="/">Sign Up</NuxtLink>

@@ -12,7 +12,7 @@
                 <div class="w-px h-5 bg-[#B3B3B3]"></div>
                 <NuxtLink to="/">Careers</NuxtLink>
                 <div class="w-px h-5 bg-[#B3B3B3]"></div>
-                <NuxtLink to="/">About</NuxtLink>
+                <NuxtLink to="/about">About</NuxtLink>
                 <div class="w-px h-5 bg-[#B3B3B3]"></div>
                 <NuxtLink to="/">Security</NuxtLink>
             </div>
