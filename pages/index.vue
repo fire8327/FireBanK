@@ -116,7 +116,7 @@
                 <div class="lg:w-[55%] flex flex-col gap-10 md:gap-12 xl:gap-14">
                     <div class="flex flex-col gap-2 md:gap-3 xl:gap-3.5">
                         <p class="text-xl md:text-2xl xl:text-3xl font-medium">For Business</p>
-                        <p class="text-sm md:text-base xl:text-lg leading-[150%] font-light text-[#B3B3B3]"> For businesses, we empower growth with working capital solutions that optimize cash flow, and our tailored financing options fuel business expansion. Whatever your financial aspirations, YourBank is committed to providing the right tools and support to achieve them</p>
+                        <p class="text-sm md:text-base xl:text-lg leading-[150%] font-light text-[#B3B3B3]"> For businesses, we empower growth with working capital solutions that optimize cash flow, and our tailored financing options fuel business expansion. Whatever your financial aspirations, FireBanK is committed to providing the right tools and support to achieve them</p>
                     </div>
                     <div class="flex items-center max-lg:flex-col gap-7 md:gap-10 xl:gap-12">
                         <div class="flex flex-col gap-1 max-lg:items-center max-lg:text-center">
@@ -141,7 +141,7 @@
     <div class="flex flex-col gap-10 md:gap-14 xl:gap-20 text-white">
         <div class="flex flex-col gap-2 md:gap-2.5 xl:gap-3">
             <p class="text-2xl md:text-4xl xl:text-5xl font-medium leading-[150%]">Our <span class="text-[#CAFF33]">Features</span></p>
-            <p class="text-xs md:text-sm xl:text-lg font-light text-[#B3B3B3] leading-[150%]">Experience a host of powerful features at YourBank, including seamless online banking, secure transactions, and personalized financial insights, all designed to enhance your banking experience</p>
+            <p class="text-xs md:text-sm xl:text-lg font-light text-[#B3B3B3] leading-[150%]">Experience a host of powerful features at FireBanK, including seamless online banking, secure transactions, and personalized financial insights, all designed to enhance your banking experience</p>
         </div>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-5 xl:gap-7">
             <div class="flex flex-col gap-5 xl:gap-7 rounded-xl p-7 md:p-10 xl:p-12 bg-[#1C1C1C] border border-[#262626]">
@@ -177,7 +177,7 @@
     <div class="w-full rounded-xl bg-[#1C1C1C] p-7 md:p-14 xl:p-20 flex items-center max-lg:flex-col max-lg:text-center lg:justify-between gap-6 border border-[#262626] text-white">
         <div class="flex flex-col gap-2 md:gap-2.5 xl:gap-3.5">
             <p class="text-xl md:text-3xl xl:text-4xl font-medium leading-[150%]">Start your financial journey with <span class="text-[#CAFF33]">FireBanK today!</span></p>
-            <p class="text-[#B3B3B3] text-sm md:text-base xl:text-lg">Ready to take control of your finances? Join YourBank now, and let us help you achieve your financial goals with our tailored solutions and exceptional customer service</p> 
+            <p class="text-[#B3B3B3] text-sm md:text-base xl:text-lg">Ready to take control of your finances? Join FireBanK now, and let us help you achieve your financial goals with our tailored solutions and exceptional customer service</p> 
         </div>
         <NuxtLink to="/" class="rounded-full py-3 xl:py-4 px-6 xl:px-7 bg-[#CAFF33] text-black shrink-0">Open Account</NuxtLink>        
     </div>    
