@@ -1,7 +1,8 @@
 <template>
     <div class="flex p-3.5 md:p-10 xl:p-12 rounded-xl relative lg:justify-end bg-[#1C1C1C] max-lg:flex-col">
-        <img src="/images/about/hero.png" alt="" class="rounded-[20px]">
-        <div class="lg:absolute lg:top-[39px] lg:left-[39px] xl:top-[47px] xl:left-[47px] p-6 md:p-14 xl:p-20 flex flex-col gap-3.5 md:gap-5 xl:gap-6 bg-[#1A1A1A] max-lg:rounded-[20px] max-lg:-mt-6 lg:w-1/2 lg:rounded-l-[20px] lg:rounded-br-[60px] xl:rounded-br-[80px]">
+        <img src="/images/hero/abstract.png" alt="" class="absolute top-0 right-0 z-[0]">
+        <img src="/images/about/hero.png" alt="" class="rounded-[20px] relative z-[1]">
+        <div class="lg:absolute lg:top-[39px] lg:left-[39px] xl:top-[47px] xl:left-[47px] p-6 md:p-14 xl:p-20 flex flex-col gap-3.5 md:gap-5 xl:gap-6 bg-[#1A1A1A] max-lg:rounded-[20px] max-lg:-mt-6 lg:w-1/2 lg:rounded-l-[20px] lg:rounded-br-[60px] xl:rounded-br-[80px] z-[2]">
             <div class="flex flex-col text-white">
                 <p class="text-base md:text-lg xl:text-xl font-medium leading-[150%]">Welcome to FireBanK</p>  
                 <p class="text-3xl md:text-5xl xl:text-6xl font-medium leading-[130%]">Where Banking Meets <span class="text-[#CAFF33]">Excellence!</span></p>
