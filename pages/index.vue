@@ -184,5 +184,8 @@
 </template>
 
 <script setup>
-
+    useSeoMeta({
+        title: 'Home Page',
+        lang: 'en'
+	})
 </script>

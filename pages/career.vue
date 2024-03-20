@@ -172,5 +172,8 @@
 </template>
 
 <script setup>
-
+    useSeoMeta({
+        title: 'Career',
+        lang: 'en'
+	})
 </script>

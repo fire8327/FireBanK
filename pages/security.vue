@@ -50,5 +50,8 @@
 </template>
 
 <script setup>
-
+    useSeoMeta({
+        title: 'Security',
+        lang: 'en'
+	})
 </script>

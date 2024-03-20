@@ -101,5 +101,8 @@
 </template>
 
 <script setup>
-
+    useSeoMeta({
+        title: 'About',
+        lang: 'en'
+	})
 </script>
