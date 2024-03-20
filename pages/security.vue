@@ -13,33 +13,33 @@
             <p class="text-xs md:text-sm xl:text-lg font-light text-[#B3B3B3] leading-[150%]">At FireBanK, we prioritize the security and confidentiality of your financial information. Our state-of-the-art encryption technology and stringent data protection measures ensure your assets and transactions are safeguarded at all times</p>
         </div>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-5 xl:gap-7">
-            <div class="flex flex-col gap-5 xl:gap-7 rounded-xl p-7 md:p-10 xl:p-12 bg-[#1C1C1C] border border-[#262626] relative overflow-hidden">
+            <div class="flex flex-col gap-5 xl:gap-7 rounded-xl p-4 md:p-10 xl:p-12 bg-[#1C1C1C] border border-[#262626] relative overflow-hidden">
                 <img src="/images/security/bg.png" alt="" class="absolute w-full h-full left-0 top-0 z-[0]">
-                <div class="flex items-center justify-between relative z-[1]">
+                <div class="flex items-center gap-5 relative z-[1]">
                     <img src="/images/security/protect1.png" alt="">
                     <p class="text-base md:text-lg xl:text-2xl">Secure Online Banking Platform</p>
                 </div>
                 <p class="text-sm md:text-base xl:text-lg leading-[150%] font-light text-[#B3B3B3] relative z-[1]">Our online banking platform is built with multiple layers of security to safeguard your information. We utilize industry-standard encryption protocols to ensure that your data remains confidential and protected during transmission.</p>
             </div>
-            <div class="flex flex-col gap-5 xl:gap-7 rounded-xl p-7 md:p-10 xl:p-12 bg-[#1C1C1C] border border-[#262626] relative overflow-hidden">
+            <div class="flex flex-col gap-5 xl:gap-7 rounded-xl p-4 md:p-10 xl:p-12 bg-[#1C1C1C] border border-[#262626] relative overflow-hidden">
                 <img src="/images/security/bg.png" alt="" class="absolute w-full h-full left-0 top-0 z-[0]">
-                <div class="flex items-center justify-between relative z-[1]">
+                <div class="flex items-center gap-5 relative z-[1]">
                     <img src="/images/security/protect2.png" alt="">
                     <p class="text-base md:text-lg xl:text-2xl">Multi-Factor Authentication</p>
                 </div>
                 <p class="text-sm md:text-base xl:text-lg leading-[150%] font-light text-[#B3B3B3] relative z-[1]">To enhance the security of your online banking experience, we employ multi-factor authentication. This additional layer of security requires you to provide multiple pieces of identification, such as a password and a one-time verification code, to access your account.</p>
             </div>
-            <div class="flex flex-col gap-5 xl:gap-7 rounded-xl p-7 md:p-10 xl:p-12 bg-[#1C1C1C] border border-[#262626] relative overflow-hidden">
+            <div class="flex flex-col gap-5 xl:gap-7 rounded-xl p-4 md:p-10 xl:p-12 bg-[#1C1C1C] border border-[#262626] relative overflow-hidden">
                 <img src="/images/security/bg.png" alt="" class="absolute w-full h-full left-0 top-0 z-[0]">
-                <div class="flex items-center justify-between relative z-[1]">
+                <div class="flex items-center gap-5 relative z-[1]">
                     <img src="/images/security/protect3.png" alt="">
                     <p class="text-base md:text-lg xl:text-2xl">Fraud Monitoring</p>
                 </div>
                 <p class="text-sm md:text-base xl:text-lg leading-[150%] font-light text-[#B3B3B3] relative z-[1]">We have sophisticated fraud detection systems in place to monitor your accounts for any suspicious activities. Our dedicated team works around the clock to detect and prevent unauthorized transactions, providing you with peace of mind.</p>
             </div>
-            <div class="flex flex-col gap-5 xl:gap-7 rounded-xl p-7 md:p-10 xl:p-12 bg-[#1C1C1C] border border-[#262626] relative overflow-hidden">
+            <div class="flex flex-col gap-5 xl:gap-7 rounded-xl p-4 md:p-10 xl:p-12 bg-[#1C1C1C] border border-[#262626] relative overflow-hidden">
                 <img src="/images/security/bg.png" alt="" class="absolute w-full h-full left-0 top-0 z-[0]">
-                <div class="flex items-center justify-between relative z-[1]">
+                <div class="flex items-center gap-5 relative z-[1]">
                     <img src="/images/security/protect4.png" alt="">
                     <p class="text-base md:text-lg xl:text-2xl">Secure Mobile Banking</p>
                 </div>

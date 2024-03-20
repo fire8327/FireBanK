@@ -10,11 +10,11 @@
             <div class="flex items-center gap-3 text-[#B3B3B3] text-sm md:text-base xl:text-lg">
                 <NuxtLink to="/">Home</NuxtLink>
                 <div class="w-px h-5 bg-[#B3B3B3]"></div>
-                <NuxtLink to="/">Careers</NuxtLink>
+                <NuxtLink to="/career">Careers</NuxtLink>
                 <div class="w-px h-5 bg-[#B3B3B3]"></div>
                 <NuxtLink to="/about">About</NuxtLink>
                 <div class="w-px h-5 bg-[#B3B3B3]"></div>
-                <NuxtLink to="/">Security</NuxtLink>
+                <NuxtLink to="/security">Security</NuxtLink>
             </div>
         </div>
     </footer>
